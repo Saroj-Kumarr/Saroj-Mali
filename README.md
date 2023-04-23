@@ -70,13 +70,4 @@ Currently open for full-time/intern job roles in frontend development
 
 </p> 
 
-## Github Stats
-
-<p>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojkumar47&layout=compact&theme=algolia" alt="saurabh-kud" width=48%" >
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sarojkumar47&&show_icons=true&theme=algolia" align="right" width="48%">
-
-</p>
 
