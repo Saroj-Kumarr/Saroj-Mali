@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Saroj Kumar - Web Developer">
+<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Saroj Kumar - Web Developer">
 
-
+ -->
 
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
