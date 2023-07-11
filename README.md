@@ -19,7 +19,7 @@ Currently open for full-time/intern job roles in frontend development
 <h3>I'm Saroj kumar, a passionate Front-end Developer from India</h3>
 
 
-- 🔭 I’m currently working on **Front-end Development**
+- 🔭 I’m currently working on **Back-end Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
