@@ -30,7 +30,7 @@ Currently open for full-time/intern job roles in frontend development
 
 - Libraries & Frameworks -  `ReactJs` and `Tailwind-CSS`
 
-- Tools and Technologies -`HTML` `CSS` and `Git`
+- Tools and Technologies -`HTML` `CSS` `Netilify` `Vercel` and `GIT`
 
 - Areas for interests - `Web Development`
 
