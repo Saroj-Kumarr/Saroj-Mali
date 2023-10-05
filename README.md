@@ -32,7 +32,7 @@ Currently open for full-time/intern job roles in frontend development
 
 - Tools and Technologies -`HTML` `CSS` `Netilify` `Vercel` and `GIT`
 
-- Areas for interests - `Web Development`
+- Areas for interests - `Full-Stack Web-Development`
 
 <h3 align="left">Languages and Tools:</h3>
 
