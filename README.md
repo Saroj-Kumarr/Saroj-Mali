@@ -28,7 +28,7 @@ Currently open for full-time/intern job roles in frontend development
 
 - Languages - `C` `C++` `Java` and `Javascript`
 
-- Libraries & Frameworks -  `ReactJs` and `Tailwind-CSS`
+- Libraries & Frameworks -  `Tailwind-CSS`  `React.js` `Node.js` `Express.js` and `MongoDB`
 
 - Tools and Technologies -`HTML` `CSS` `Netilify` `Vercel` and `GIT`
 
