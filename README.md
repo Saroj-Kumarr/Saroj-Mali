@@ -14,7 +14,7 @@ Currently open for full-time/intern job roles in frontend development
 
 ```
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <h3>I'm Saroj kumar, a passionate Web Developer from India</h3>
 
@@ -34,7 +34,7 @@ Currently open for full-time/intern job roles in frontend development
 
 - Areas for interests - `Front-end Development` `Back-end Development` and `Full stack Development`
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p>
 
@@ -57,6 +57,7 @@ Currently open for full-time/intern job roles in frontend development
  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 
  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ 
 
 </p> 
 
