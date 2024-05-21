@@ -1,9 +1,7 @@
 ![github-header-image (1)](https://github.com/Saroj-Kumarr/Saroj-kumarr/assets/131184188/b65b4c8b-56fa-4a38-9bae-d3c934f3a8d6)
-<h1 align="center">Hi 👋, I'm Saroj Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
+<hr/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
 
 - 🔭 I’m currently working on **Eduverse Edtech Platform**
 
