@@ -1,3 +1,4 @@
+![github-header-image (1)](https://github.com/Saroj-Kumarr/Saroj-kumarr/assets/131184188/b65b4c8b-56fa-4a38-9bae-d3c934f3a8d6)
 <h1 align="center">Hi 👋, I'm Saroj Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
