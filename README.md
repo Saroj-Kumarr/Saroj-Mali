@@ -26,4 +26,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 💻 My Leetcode Profile
 ![Leetcode Stats](https://leetcard.jacoblin.cool/skstriver?ext=heatmap)
