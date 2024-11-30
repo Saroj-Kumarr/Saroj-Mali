@@ -26,7 +26,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=saroj-kumarr&icon=2&color=0)](https://visitcount.itsvg.in)
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/skstriver?ext=heatmap)
